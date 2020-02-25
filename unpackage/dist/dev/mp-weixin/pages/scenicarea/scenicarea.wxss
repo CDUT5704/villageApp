@@ -1,0 +1,35 @@
+@charset "UTF-8";
+/* 页面左右间距 */
+/* 文字尺寸 */
+/*文字颜色*/
+/* 边框颜色 */
+/* 图片加载中颜色 */
+/* 行为相关颜色 */
+.bkColor {
+  width: 100vw;
+  height: 100vh;
+  background-color: #303133;
+}
+.swiper {
+  height: 65vh;
+}
+.swiper-item {
+  margin-top: 15vh;
+}
+.image {
+  height: 35vh;
+  width: 98vw;
+  margin-top: 7vh;
+}
+.textarea {
+  height: 25vh;
+  /* border-color: #4399FC;
+	border-style: solid; */
+}
+.textarea .text {
+    width: 100vw;
+    height: 100vh;
+    color: #F5F5F5;
+    font-size: 33rpx;
+}
+
